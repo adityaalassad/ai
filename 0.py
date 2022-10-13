@@ -10,3 +10,4 @@ if jenis_tiket == "ekonomi":
     else waktu_tiket == 0:
         harga = 0
 
+# adit pacarnya nabila
